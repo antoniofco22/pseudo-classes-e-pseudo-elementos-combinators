@@ -1,0 +1,17 @@
+#div1  { 
+    color: rgb(46, 165, 42);
+    text-align: center;
+}
+#div2  { 
+    color: rgb(243, 26, 91);
+    text-align: left;
+}
+.class1  { 
+    color: rgb(75, 42, 165);
+    text-align: center;
+}
+p::first-line { color: brown;
+
+}
+
+article > div > h2 { text-decoration: underline;color: rgb(247, 2, 214); }
